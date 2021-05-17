@@ -1,0 +1,18 @@
+html{
+  margin: 0;
+  max-width: 100%;
+  min-width: 100%;
+}
+
+.izr {
+  background-color: yellow;
+  text-align: left;
+
+}
+
+.der 
+{
+   background-color: green;
+  text-align: right;
+
+}
