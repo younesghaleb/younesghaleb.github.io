@@ -7,7 +7,7 @@ function gestionarFicheroXML(xmlDoc){
 
 
 		
-	capaVacia.innerHTML = capaVacia.innerHTML + "<p class='name'>" + cine.textcontent+ "</p>"
+	capaVacia.innerHTML = capaVacia.innerHTML + "<p class='name'>" + cine.textcontent + "</p>"
 	   
 
 	
