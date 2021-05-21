@@ -1,4 +1,9 @@
 
+html{
+  margin: 0;
+  max-width: 100%;
+  min-width: 100%;
+}
 
 .name {
   background-color: yellow;
